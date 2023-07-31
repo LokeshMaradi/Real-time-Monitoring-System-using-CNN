@@ -7,5 +7,5 @@ Use face focussed images of the people on whom you want to apply this model. Nam
 ### FOR USERS DETAILS
 Create dictionaries using the details(Name, Roll number, Department etc) of the people whose images were used in the pipeline. Add them in ingate.py and outgate.py in mentioned areas
 ## OUTPUT
-Run manually or use automated script to execute mp_report_analysis using the outputs of both ingate.py and outgate.py as inputs for mentioned executable file. 8 types of detailed analysis sheets will be produced as the output of mp_report_analysis which reduces the human efforts to a significant extent in monitoring.
+Run manually or use automated script to execute mp_report_analysis using the outputs of both ingate.py and outgate.py as inputs for mentioned executable file. 8 types of detailed analysis sheets will be produced as the output of mp_report_analysis which reduces the human efforts in monitoring to a significant extent.
 
